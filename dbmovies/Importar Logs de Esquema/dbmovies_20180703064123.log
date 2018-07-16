@@ -1,0 +1,7 @@
+03/07/2018 03:41:23	Este log contém informações sobre a operação do esquema importado no projeto 'dbmovies' no computador 'USUARIO-PC' pelo usuário 'Usuario'.
+03/07/2018 03:41:24	A importação do esquema de banco de dados foi iniciada.
+03/07/2018 03:41:41	Exceção gerada.
+Não há suporte para o elemento DataSyncEncryptionKey_e2599e379cdf434fbaa2620df6daa0f5 em Banco de Dados SQL do Microsoft Azure v12.
+03/07/2018 03:41:41	Importação do banco de dados concluída.
+03/07/2018 03:41:41	Um resumo da importação foi salvo no seguinte local: D:\moviesapp\dbmovies\Importar Logs de Esquema\dbmovies_20180703064123.log.
+03/07/2018 03:41:41	Clique em Concluir para continuar...
